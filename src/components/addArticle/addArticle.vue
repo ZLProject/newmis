@@ -46,6 +46,7 @@
 </template>
 
 <script type="text/ecmascript-6">
+  //富文本编辑器
   import UEditor from '@/components/uEditor/uEditor.vue';
   export default {
     data(){
